@@ -1,12 +1,12 @@
-Olá! Sou Davi Dubeux
+## Olá! Sou Davi Dubeux
 
 - 📚 Estudando Front-end
 - 👦🏻 Pronomes Ele/Dele
 
 <div align="center">
   <a href="https://github.com/DaviDubeux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviDubeux&?count_private=true&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDubeux&theme=react&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviDubeux&?count_private=true&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDubeux&layout=compact&theme=react"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -18,5 +18,5 @@ Olá! Sou Davi Dubeux
   ##
   
 <div>
-  <a href"https://www.linkedin.com/in/davidubeux/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davidubeux/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
