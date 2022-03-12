@@ -3,10 +3,10 @@
 - 📚 Estudando Front-end
 - 👦🏻 Pronomes Ele/Dele
 
-<div align="center">
+<div style="display: flex">
   <a href="https://github.com/DaviDubeux">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviDubeux&?count_private=true&show_icons=true&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDubeux&layout=compact&theme=react"/>
+  <img style="flex: 50%" src="https://github-readme-stats.vercel.app/api?username=DaviDubeux&?count_private=true&show_icons=true&theme=react"/>
+  <img style="flex: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDubeux&layout=compact&theme=react"/>
 </div>
   
  <div style="display: inline_block"><br>
