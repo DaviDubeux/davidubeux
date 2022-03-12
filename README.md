@@ -3,7 +3,7 @@
 - 📚 Estudando Front-end
 - 👦🏻 Pronomes Ele/Dele
 
-<div style="display: flex">
+<div style="display: flex" style="flex-wrap: nowrap">
   <a href="https://github.com/DaviDubeux">
   <img style="flex: 50%" src="https://github-readme-stats.vercel.app/api?username=DaviDubeux&?count_private=true&show_icons=true&theme=react"/>
   <img style="flex: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDubeux&layout=compact&theme=react"/>
