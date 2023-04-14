@@ -1,6 +1,6 @@
 ## Olá! Sou Davi Dubeux
 
-- 📚 Estudando Front-end
+- 📚 Estudando Engenharia da Computação na UFPE
 - 👦🏻 Pronomes Ele/Dele
 
 <div align="center">
